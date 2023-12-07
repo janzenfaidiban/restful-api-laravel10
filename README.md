@@ -18,11 +18,13 @@ php artisan storage:link
 Membuat php resource
 ```
 php artisan make:resource PostResource
+php artisan make:resource EventResource
 ```
 
 Membuat model
 ```
 php artisan make:model Post -m
+php artisan make:model Event -m
 ```
 
 Generate table ke dalam database
@@ -34,6 +36,12 @@ php artisan migrate
 Membuat kontroller baru
 ```
 php artisan make:controller Api/PostController
+php artisan make:controller Api/EventController
+```
+
+Menampilkan daftar routes
+```
+php artisan route:list
 ```
 
 ## Sumber Belajar
