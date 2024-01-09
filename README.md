@@ -48,3 +48,5 @@ php artisan route:list
 
 Web : https://santrikoding.com/tutorial-set/tutorial-restful-api-laravel-10?from=live-search
 Youtube : https://www.youtube.com/playlist?list=PL-2rLYVN9WCzEe1v7JaXuq4XIkqZdLHpy
+
+Youtube Playlist : https://www.youtube.com/playlist?list=PL-2rLYVN9WCzEe1v7JaXuq4XIkqZdLHpy
