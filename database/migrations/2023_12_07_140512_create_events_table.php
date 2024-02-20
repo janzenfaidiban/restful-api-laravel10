@@ -17,7 +17,7 @@ return new class extends Migration
             $table->id();
             $table->string('poster');
             $table->string('title');
-            $table->text('caption');
+            $table->text('captions');
             $table->enum('publish',['true', 'false']);
             $table->timestamps();
         });
